@@ -1,13 +1,20 @@
 const express = require('express');
 const app = express();
+const cors=require('cors')
 const port = 5000; 
 
-const chef=require('./data/recipe.json')
 
-app.get('/news', (req, res) => {
+const recipe=require('./data/recipe.json');
+
+app.use(cors());
+
+app.get('/', (req, res) => {
     res.send('Hello World bangladesh!')
   });
 
+app.get('/recipe',(req,res)=>{
+  res.send(recipe);
+})
 
 
 app.listen(port, () => {
