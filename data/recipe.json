@@ -121,5 +121,65 @@
         "rating": 4.1
       }
     ]
-  }
+},
+{
+  "id": 5,
+  "name": "Pati Jinich",
+  "description": "Pati Jinich is a Mexican chef, cookbook author, and television host. Born in Mexico City, she initially pursued a career in political science before discovering her passion for cooking. She went on to study at the Culinary Institute of America in New York, and later worked at several top restaurants in both Mexico and the United States.",
+  "experience": "Over 25 years of experience",
+  "image": "https://www.washingtonian.com/wp-content/uploads/2021/11/PJ_Lifestyle_mixingSalsa-9312-copy-1-2048x2544.jpg",
+  "recipesNum": 220,
+  "recipes": [
+      {
+          "id": 1,
+          "name": "Mole de Olla",
+          "cooking_method": "1. Simmer beef, pork, vegetables, and herbs in a large pot of water until tender. 2. Add corn and green beans and continue simmering until cooked. 3. Season with salt and chili powder to taste.",
+          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder"
+      },
+      {
+        "id": 2,
+        "name": "Roast Chicken",
+        "cooking_method": "Oven",
+        "ingredients": "whole chicken, lemons, garlic, thyme, butter, salt, pepper",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Pesto Pasta",
+        "cooking_method": "Stovetop",
+        "ingredients": "pasta, basil, garlic, pine nuts, parmesan cheese, olive oil, lemon juice, salt, pepper",
+        "rating": 4.1
+      }
+    ]
+},
+{
+  "id": 6,
+  "name": "Guillermo González Beristáin",
+  "description": "Guillermo González Beristáin is the owner and chef of Dulce Patria, a restaurant in Mexico City that specializes in traditional Mexican cuisine with a modern twist. Ortiz has also written several cookbooks and has been recognized for her contributions to Mexican gastronomy.",
+  "experience": "Over 25 years of experience",
+  "image": "https://mexico.is/wp-content/uploads/2016/04/Entrevista-Top-Chef-Mexico-Guillermo-Gonzalez-Beristain-1.jpg",
+  "recipesNum": 220,
+  "recipes": [
+      {
+          "id": 1,
+          "name": "Mole de Olla",
+          "cooking_method": "1. Simmer beef, pork, vegetables, and herbs in a large pot of water until tender. 2. Add corn and green beans and continue simmering until cooked. 3. Season with salt and chili powder to taste.",
+          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder"
+      },
+      {
+        "id": 2,
+        "name": "Roast Chicken",
+        "cooking_method": "Oven",
+        "ingredients": "whole chicken, lemons, garlic, thyme, butter, salt, pepper",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Pesto Pasta",
+        "cooking_method": "Stovetop",
+        "ingredients": "pasta, basil, garlic, pine nuts, parmesan cheese, olive oil, lemon juice, salt, pepper",
+        "rating": 4.1
+      }
+    ]
+}
 ]
