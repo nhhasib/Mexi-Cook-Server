@@ -10,7 +10,7 @@ const reviews=require('./data/reviews.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Welcome to MexiCook server')
   });
 
 app.get('/recipe',(req,res)=>{
