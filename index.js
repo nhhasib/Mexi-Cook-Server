@@ -16,6 +16,13 @@ app.get('/', (req, res) => {
 app.get('/recipe',(req,res)=>{
   res.send(recipe);
 })
+app.get(`/recipe/:id`,(req,res)=>{
+  const id = req.params.id 
+
+  const chef = recipe.find(rec => rec.id ===  parseInt(id))
+  res.send(chef);
+})
+
 
 app.get('/reviews',(req,res)=>{
   res.send(reviews);

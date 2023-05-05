@@ -134,7 +134,8 @@
           "id": 1,
           "name": "Mole de Olla",
           "cooking_method": "1. Simmer beef, pork, vegetables, and herbs in a large pot of water until tender. 2. Add corn and green beans and continue simmering until cooked. 3. Season with salt and chili powder to taste.",
-          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder"
+          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder",
+          "rating": 3.8
       },
       {
         "id": 2,
@@ -164,7 +165,8 @@
           "id": 1,
           "name": "Mole de Olla",
           "cooking_method": "1. Simmer beef, pork, vegetables, and herbs in a large pot of water until tender. 2. Add corn and green beans and continue simmering until cooked. 3. Season with salt and chili powder to taste.",
-          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder"
+          "ingredients": "Beef, pork, vegetables, herbs, corn, green beans, salt, chili powder",
+          "rating": 4.8
       },
       {
         "id": 2,
