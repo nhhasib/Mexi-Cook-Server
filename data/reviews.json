@@ -1,0 +1,20 @@
+[
+    {
+       "name": "Maria Hernandez",
+       "occupation": "Chef",
+       "image": "https://images.hola.com/us/images/026c-12fb8fbada43-2822ed1eafa6-1000/horizontal-1200/top-chef-season-11.jpg",
+       "review": "The dishes at El Fuego are not only delicious but also visually stunning. Maria has a true gift for combining traditional Mexican flavors with modern techniques. Her restaurant is a must-visit for anyone who loves Mexican cuisine."
+    },
+    {
+       "name": "Luis Martinez",
+       "occupation": "Food Blogger",
+       "image": "https://muybuenocookbook.com/wp-content/uploads/2019/09/Latina-travel-food-blogger-740x1109.jpg",
+       "review": "MexiCook is a fantastic resource for anyone who loves Mexican cuisine. Luis's recipes are authentic and always turn out amazing. His blog is also a great source of information on Mexican cuisine, with articles covering everything from ingredient profiles to cooking techniques."
+    },
+    {
+       "name": "Carmen Rodriguez",
+       "occupation": "Food Writer",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJqA0YwJGfVyFZhc20LUMMR-j9gXOttPdwI7Nv1mAfuXIAbSGGY0iwLKP1r-9iswZpq0&usqp=CAU",
+       "review": "MexiCook is a beautiful website that showcases the diversity and richness of Mexican cuisine. Carmen's articles are well-researched and informative, and her photography is stunning. Her website is a great resource for anyone who wants to learn more about the different regions and flavors of Mexican cuisine."
+    }
+ ]
